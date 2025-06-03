@@ -1,0 +1,2 @@
+.vs/ 
+*.suo  echo *.user  echo Debug/  echo Release/  echo *.obj  echo *.exe  echo *.pdb  echo *.tmp  echo Thumbs.db 
